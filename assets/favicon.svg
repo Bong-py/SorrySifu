@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Heart icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f9dbe7"/>
+      <stop offset="100%" stop-color="#8f6cab"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#fff9f4"/>
+  <path d="M32 51s-15-9.8-20.2-18.2C7 24.9 10.2 15 19.2 13.3 24.5 12.3 29 14.8 32 19c3-4.2 7.5-6.7 12.8-5.7C53.8 15 57 24.9 52.2 32.8 47 41.2 32 51 32 51z" fill="url(#g)"/>
+</svg>
